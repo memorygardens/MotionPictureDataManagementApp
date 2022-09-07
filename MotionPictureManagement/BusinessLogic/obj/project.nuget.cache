@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KbtLrc29jE4iaGCBrldCPhNMIoM4W9uHjQcCgBHVpGyfzcxeyW9XhMI8PoHNhOu9KiNKAQHga9kvOXlJ+6OFgQ==",
+  "success": true,
+  "projectFilePath": "D:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\BusinessLogic\\BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brand\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

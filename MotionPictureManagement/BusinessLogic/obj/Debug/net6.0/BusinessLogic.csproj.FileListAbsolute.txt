@@ -1,0 +1,5 @@
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache

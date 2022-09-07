@@ -1,0 +1,12 @@
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\bin\Debug\net6.0\Data.deps.json
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\bin\Debug\net6.0\Data.dll
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\bin\Debug\net6.0\Data.pdb
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\obj\Debug\net6.0\Data.dll
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\obj\Debug\net6.0\refint\Data.dll
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\obj\Debug\net6.0\Data.pdb
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\obj\Debug\net6.0\ref\Data.dll

@@ -1,0 +1,12 @@
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Abstractions\bin\Debug\net6.0\Abstractions.deps.json
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Abstractions\bin\Debug\net6.0\Abstractions.dll
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Abstractions\bin\Debug\net6.0\Abstractions.pdb
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Abstractions\obj\Debug\net6.0\Abstractions.csproj.AssemblyReference.cache
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Abstractions\obj\Debug\net6.0\Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Abstractions\obj\Debug\net6.0\Abstractions.AssemblyInfoInputs.cache
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Abstractions\obj\Debug\net6.0\Abstractions.AssemblyInfo.cs
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Abstractions\obj\Debug\net6.0\Abstractions.csproj.CoreCompileInputs.cache
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Abstractions\obj\Debug\net6.0\Abstractions.dll
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Abstractions\obj\Debug\net6.0\refint\Abstractions.dll
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Abstractions\obj\Debug\net6.0\Abstractions.pdb
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Abstractions\obj\Debug\net6.0\ref\Abstractions.dll
