@@ -10,3 +10,8 @@ D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\M
 D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\obj\Debug\net6.0\refint\Data.dll
 D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\obj\Debug\net6.0\Data.pdb
 D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\obj\Debug\net6.0\ref\Data.dll
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\bin\Debug\net6.0\Abstractions.dll
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\bin\Debug\net6.0\Abstractions.pdb
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache

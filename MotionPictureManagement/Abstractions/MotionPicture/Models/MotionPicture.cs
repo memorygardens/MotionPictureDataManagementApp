@@ -10,7 +10,7 @@
         /// <summary>
         /// Name of Motion Picture
         /// </summary>
-        public string? Name { get; set; }
+        public string Name { get; set; }
 
         /// <summary>
         /// Description of Motion Picture

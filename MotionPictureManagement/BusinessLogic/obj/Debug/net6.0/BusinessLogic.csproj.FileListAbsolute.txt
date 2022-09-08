@@ -3,3 +3,15 @@ D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\M
 D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
 D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
 D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\bin\Debug\net6.0\BusinessLogic.runtimeconfig.json
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\bin\Debug\net6.0\Abstractions.dll
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\bin\Debug\net6.0\Abstractions.pdb
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.genruntimeconfig.cache
+D:\Coding Environment\MayvueInterviewAssignment\MotionPictureDataManagementApp\MotionPictureManagement\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll

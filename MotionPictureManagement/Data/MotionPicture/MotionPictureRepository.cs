@@ -10,9 +10,19 @@ namespace Data.MotionPicture
 {
     public class MotionPictureRepository : IMotionPictureRepository 
     {
+
+        public MotionPictureRepository(string connectionString)
+        {
+            this.connection
+        }
         public async Task<List<Abstract.MotionPicture>> GetAllMotionPictureRecords(CancellationToken cancellationToken)
         {
-
+            return null;
+            
         }
+
+        #region Sql Commands 
+
+        #endregion
     }
 }
