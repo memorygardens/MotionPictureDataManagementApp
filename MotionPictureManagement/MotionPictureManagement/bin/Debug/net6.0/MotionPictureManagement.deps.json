@@ -10,6 +10,7 @@
         "dependencies": {
           "Abstractions": "1.0.0",
           "AutoMapper": "11.0.1",
+          "Data": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "6.0.8",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.8",
           "Swashbuckle.AspNetCore": "6.2.3"
@@ -495,6 +496,15 @@
         "runtime": {
           "Abstractions.dll": {}
         }
+      },
+      "Data/1.0.0": {
+        "dependencies": {
+          "Abstractions": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.8"
+        },
+        "runtime": {
+          "Data.dll": {}
+        }
       }
     }
   },
@@ -848,6 +858,11 @@
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
     "Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -4,14 +4,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Abstract = Abstractions.MotionPicture.Models;
+using DataModels = Data.DAO.MotionPicture.Models;
 
-namespace Data.MotionPicture.Context
+namespace Data.DAO.MotionPicture
 {
     public class MotionPictureContext : DbContext
     {
         public MotionPictureContext(DbContextOptions<MotionPictureContext> options) : base(options) { }
-
-        public DbSet<Abstract.MotionPicture> MotionPictures { get; set; }
+        
+        public DbSet<DataModels.MotionPicture> MotionPictures { get; set; }
     }
 }

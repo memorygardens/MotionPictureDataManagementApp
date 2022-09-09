@@ -2098,11 +2098,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\MotionPictureManagement\\MotionPictureManagement.csproj",
+      "projectUniqueName": "C:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\MotionPictureManagement\\MotionPictureManagement.csproj",
       "projectName": "MotionPictureManagement",
-      "projectPath": "D:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\MotionPictureManagement\\MotionPictureManagement.csproj",
+      "projectPath": "C:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\MotionPictureManagement\\MotionPictureManagement.csproj",
       "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\MotionPictureManagement\\obj\\",
+      "outputPath": "C:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\MotionPictureManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2123,11 +2123,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\Abstractions\\Abstractions.csproj": {
-              "projectPath": "D:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\Abstractions\\Abstractions.csproj"
+            "C:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\Abstractions\\Abstractions.csproj": {
+              "projectPath": "C:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\Abstractions\\Abstractions.csproj"
             },
-            "D:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\Data\\Data.csproj": {
-              "projectPath": "D:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\Data\\Data.csproj"
+            "C:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\Data\\Data.csproj": {
+              "projectPath": "C:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\Data\\Data.csproj"
             }
           }
         }

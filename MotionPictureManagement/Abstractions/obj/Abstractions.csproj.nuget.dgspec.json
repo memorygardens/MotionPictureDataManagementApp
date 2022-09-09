@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\Abstractions\\Abstractions.csproj": {}
+    "C:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\Abstractions\\Abstractions.csproj": {}
   },
   "projects": {
-    "D:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\Abstractions\\Abstractions.csproj": {
+    "C:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\Abstractions\\Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\Abstractions\\Abstractions.csproj",
+        "projectUniqueName": "C:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\Abstractions\\Abstractions.csproj",
         "projectName": "Abstractions",
-        "projectPath": "D:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\Abstractions\\Abstractions.csproj",
+        "projectPath": "C:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\Abstractions\\Abstractions.csproj",
         "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\Abstractions\\obj\\",
+        "outputPath": "C:\\Coding Environment\\MayvueInterviewAssignment\\MotionPictureDataManagementApp\\MotionPictureManagement\\Abstractions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
