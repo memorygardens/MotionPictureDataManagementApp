@@ -6,12 +6,12 @@ using System.Text;
 using System.Threading.Tasks;
 using DataModels = Data.DAO.MotionPicture.Models;
 
-namespace Data.DAO.MotionPicture
+namespace Data.MotionPicture
 {
     public class MotionPictureContext : DbContext
     {
         public MotionPictureContext(DbContextOptions<MotionPictureContext> options) : base(options) { }
-        
+
         public DbSet<DataModels.MotionPicture> MotionPictures { get; set; }
     }
 }

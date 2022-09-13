@@ -1,6 +1,8 @@
 
 global using Microsoft.EntityFrameworkCore;
 global using Microsoft.Extensions.Configuration;
+using Abstractions.MotionPicture;
+using Data.MotionPicture;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,7 +14,19 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 string connString = builder.Configuration.GetConnectionString("Default");
 
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(
+        builder =>
+        {
+            builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
+        });
+});
+
+
 var app = builder.Build();
+
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -21,10 +35,13 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.UseCors();
 
 app.Run();

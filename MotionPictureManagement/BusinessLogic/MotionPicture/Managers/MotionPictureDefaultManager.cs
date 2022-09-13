@@ -24,9 +24,31 @@ namespace BusinessLogic.MotionPicture.Managers
             _mapper = mapper;
         }
 
-        public async Task<List<Abstract.MotionPicture>> GetAllMotionPictureRecords(CancellationToken cancellationToken)
+        public async Task<List<Abstract.MotionPicture>> GetAllMotionPictureRecords()
         {
-            return await _motionPictureRepository.GetAllMotionPictureRecords(cancellationToken);
+            return await _motionPictureRepository.GetAllMotionPictureRecords();
         }
+
+        public async Task<Abstract.MotionPicture> GetMotionPictureById(int id)
+        {
+            return await _motionPictureRepository.GetMotionPictureById(id);
+        }
+
+        public async Task<Abstract.MotionPicture> AddMotionPicture(Abstract.MotionPicture input)
+        {
+            return await _motionPictureRepository.AddMotionPicture(input);
+        }
+
+        public async Task<bool> UpdateMotionPicture(Abstract.MotionPicture input)
+        {
+            return await _motionPictureRepository.UpdateMotionPicture(input);
+        }
+
+        public async Task<bool> DeleteMotionPictureById(int id)
+        {
+            return await _motionPictureRepository.DeleteMotionPictureById(id);
+        }
+
+
     }
 }

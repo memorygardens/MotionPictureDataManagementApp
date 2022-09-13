@@ -34,16 +34,16 @@ namespace MotionPictureManagement.Controllers
 
         #endregion
 
-        [HttpGet("MotionPicture")]
+        [HttpGet()]
         [ProducesResponseType(typeof(MotionPictureDto), (int)HttpStatusCode.OK)]
         [ProducesResponseType((int)HttpStatusCode.BadRequest)]
         [ProducesResponseType((int)HttpStatusCode.Unauthorized)]
         [ProducesResponseType((int)HttpStatusCode.InternalServerError)]
-        public async Task<IActionResult> GetAllMotionPictures(CancellationToken cancellationToken)
+        public async Task<IActionResult> GetAllMotionPictures()
         {
             _logger.LogInformation("Displaying all Motion Picture Records");
 
-            var results = _manager.GetAllMotionPictureRecords(cancellationToken);
+            var results = _manager.GetAllMotionPictureRecords();
             var dto = _mapper.Map<MotionPictureDto>(results);
 
             return Ok(dto);

@@ -9,6 +9,6 @@ namespace BusinessLogic.MotionPicture
 {
     public class MotionPictureProfile : Profile
     {
-       
+      
     }
 }
